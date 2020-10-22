@@ -7,4 +7,7 @@
     <color name="colorBackgroundSelected">#FFFFFF</color>
 
     <color name="toolbarIconColor">#795548</color>
+
+    <color name="textColorPrimary">@color/purple_600</color>
+    <color name="purple_600">#4b01d0</color> <!--Color primary variant (dark)-->
 </resources>

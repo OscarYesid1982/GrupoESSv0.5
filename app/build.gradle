@@ -51,5 +51,7 @@ dependencies {
     //implementacion extra
     implementation 'androidx.viewpager2:viewpager2:1.0.0-rc01'
     implementation 'com.google.android.material:material:1.3.0-alpha03'
+    //implementacion FabMenu
+    implementation 'com.getbase:floatingactionbutton:1.10.1'
 
 }

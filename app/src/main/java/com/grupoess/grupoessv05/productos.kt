@@ -26,7 +26,7 @@ class productos : AppCompatActivity(), AdapterView.OnItemClickListener {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.productos)
 //        setSupportActionBar(findViewById(R.id.toolbar))
 
         var context = this;

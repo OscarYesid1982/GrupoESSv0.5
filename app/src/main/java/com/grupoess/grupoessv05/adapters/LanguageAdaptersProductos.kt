@@ -39,7 +39,7 @@ class LanguageAdaptersProductos(var context: Context, var arrayList: ArrayList<P
 
         Picasso.get().load(listItem.icons).into(icons);
         names.text = listItem.name
-        precio.text="$200"
+        //precio.text="$200"
 
         return view
     }

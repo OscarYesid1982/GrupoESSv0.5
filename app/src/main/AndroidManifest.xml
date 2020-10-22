@@ -15,7 +15,8 @@
             android:theme="@style/AppTheme.NoActionBar">
 
         </activity>
-        <activity android:name=".productos"></activity>
+        <activity android:name=".productos"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
         <activity android:name=".seleccion_producto"></activity>
         <activity android:name=".login"
             android:theme="@style/AppTheme.NoActionBar">
